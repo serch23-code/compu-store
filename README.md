@@ -38,4 +38,4 @@
 - Codigo para insertar 200 productos y 1000 comentarios
 - Catalogo con productos
 - Ver detalle de producto
-- Se crearon botones para la isercion de productos y coemntarios aleatorios
+- Se crearon botones para la isercion de productos y comentarios aleatorios
